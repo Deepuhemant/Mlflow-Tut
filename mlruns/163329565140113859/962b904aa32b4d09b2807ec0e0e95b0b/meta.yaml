@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163329565140113859/962b904aa32b4d09b2807ec0e0e95b0b/artifacts
+end_time: 1743760956563
+entry_point_name: ''
+experiment_id: '163329565140113859'
+lifecycle_stage: active
+run_id: 962b904aa32b4d09b2807ec0e0e95b0b
+run_name: brawny-bug-700
+run_uuid: 962b904aa32b4d09b2807ec0e0e95b0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743760956450
+status: 3
+tags: []
+user_id: deepu

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163329565140113859/576cf45c036942cfa5c434e07badd424/artifacts
+end_time: 1743758165639
+entry_point_name: ''
+experiment_id: '163329565140113859'
+lifecycle_stage: active
+run_id: 576cf45c036942cfa5c434e07badd424
+run_name: tasteful-steed-129
+run_uuid: 576cf45c036942cfa5c434e07badd424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743758165521
+status: 3
+tags: []
+user_id: deepu

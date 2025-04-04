@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/163329565140113859/264cfc8c42e247d29de3ccc482825d89/artifacts
+end_time: 1743752385315
+entry_point_name: ''
+experiment_id: '163329565140113859'
+lifecycle_stage: active
+run_id: 264cfc8c42e247d29de3ccc482825d89
+run_name: mysterious-duck-357
+run_uuid: 264cfc8c42e247d29de3ccc482825d89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743752385157
+status: 3
+tags: []
+user_id: deepu
